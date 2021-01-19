@@ -1,0 +1,8 @@
+// Create new table
+
+CREATE TABLE `tasks` (
+  `id` int(10) NOT NULL,
+  `task` varchar(256) NOT NULL
+)
+
+
